@@ -1,4 +1,4 @@
-### Hi there 👋
+## For man is man and master of his fate.  👋
 
 <!--
 **jamesgree90qu/jamesgree90qu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
